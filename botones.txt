@@ -1,2 +1,0 @@
------
-se agregaron los botones que serviran de input
